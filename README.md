@@ -1,5 +1,5 @@
 # BootstrapTest
-Bootstrap methodology for joint testing.
+Bootstrap methodology for joint testing
 
 [![DOI](https://zenodo.org/badge/61378616.svg)](https://zenodo.org/badge/latestdoi/61378616)
 
@@ -9,7 +9,7 @@ Bootstrap methodology for joint testing.
 
 Please cite `BootstrapTest` in publications:
 
-Ardia, D., Guerrouaz, A., Hoogerheide, L.F. (2016).  
+Ardia, D., Guerrouaz, A., Hoogerheide, L.F. (2016a).  
 A note on jointly backtesting models for multiple assets and horizons.   
 _Wilmott Magazine_ **83**, pp.46-49.  
 http://dx.doi.org/doi:10.1002/wilm.10509  
