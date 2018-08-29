@@ -1,7 +1,7 @@
 ---
 title: 'BootstrapTest'
 bibliography: paper.bib
-date: "31 December 2016"
+date: "29 August 2018"
 tags:
 - boostrap test
 - risk management
@@ -16,7 +16,7 @@ authors:
 
 # Summary
 
-`BootstrapTest` is a set of R functions (@R) implementing the bootstrap test of
+`BootstrapTest` is a set of R functions implementing the bootstrap test of
 @ArdiaEtAl2016a and @ArdiaEtAl2016b. The latest version of the code is 
 available at 'https://github.com/ArdiaD/BootstrapTest'.
 

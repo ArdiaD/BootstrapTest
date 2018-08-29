@@ -1,5 +1,5 @@
 This R code is a complementary material for the paper:
-Ardia, Hoogerheide, Gatarek (2016) "A New Bootstrap Test for Multiple Assets Joint Risk Testing"
+Ardia, Hoogerheide, Gatarek (2018) "A New Bootstrap Test for Multiple Assets Joint Risk Testing"
 available on SSRN at: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2312007
 
 We are grateful to Anas Guerrouaz for support in the development of the R code.

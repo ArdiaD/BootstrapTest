@@ -6,17 +6,19 @@ Bootstrap methodology for joint testing
 [![Github Issues](http://githubbadges.herokuapp.com/ArdiaD/BootstrapTest/issues.svg)](https://github.com/ArdiaD/BootstrapTest/issues)
 
 `BootstrapTest` is a set of R function implementing the bootstrap test of
-[Ardia et al. (2016a)](http://dx.doi.org/doi:10.1002/wilm.10509) and [Ardia et al. (2016b)](http://dx.doi.org/doi:10.2139/ssrn.2312007).
+[Ardia et al. (2016)](http://dx.doi.org/doi:10.1002/wilm.10509) and [Ardia et al. (2017)](http://dx.doi.org/doi:10.21314/JOR.2017.356).
 
 
 Please cite `BootstrapTest` in publications:
 
-Ardia, D., Guerrouaz, A., Hoogerheide, L.F. (2016a).  
+Ardia, D., Guerrouaz, A., Hoogerheide, L.F. (2016).  
 A note on jointly backtesting models for multiple assets and horizons.   
 _Wilmott Magazine_ **83**, pp.46-49.  
 http://dx.doi.org/doi:10.1002/wilm.10509  
+https://ssrn.com/abstract=2732069  
 
-Ardia, D., Hoogerheide, L.F., Gatarek, L. (2016b).  
+Ardia, D., Hoogerheide, L.F., Gatarek, L. (2017).  
 _A new bootstrap test for multiple assets joint risk testing_.  
-Working paper.  
-http://dx.doi.org/doi:10.2139/ssrn.2312007
+_Journal of Risk_ **19**(4), pp.1-22. 
+http://dx.doi.org/doi:10.21314/JOR.2017.356
+http://dx.doi.org/10.2139/ssrn.2312007
