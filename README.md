@@ -19,6 +19,6 @@ https://ssrn.com/abstract=2732069
 
 Ardia, D., Hoogerheide, L.F., Gatarek, L. (2017).  
 A new bootstrap test for multiple assets joint risk testing.  
-_Journal of Risk_ **19**(4), pp.1-22. 
+_Journal of Risk_ **19**(4), pp.1-22.   
 http://dx.doi.org/doi:10.21314/JOR.2017.356  
 http://dx.doi.org/10.2139/ssrn.2312007
