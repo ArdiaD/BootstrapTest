@@ -14,11 +14,11 @@ Please cite `BootstrapTest` in publications:
 Ardia, D., Guerrouaz, A., Hoogerheide, L.F. (2016).  
 A note on jointly backtesting models for multiple assets and horizons.   
 _Wilmott Magazine_ **83**, pp.46-49.  
-http://dx.doi.org/doi:10.1002/wilm.10509  
+http://dx.doi.org/doi:10.1002/wilm.10509    
 https://ssrn.com/abstract=2732069  
 
 Ardia, D., Hoogerheide, L.F., Gatarek, L. (2017).  
-_A new bootstrap test for multiple assets joint risk testing_.  
+A new bootstrap test for multiple assets joint risk testing.  
 _Journal of Risk_ **19**(4), pp.1-22. 
-http://dx.doi.org/doi:10.21314/JOR.2017.356
+http://dx.doi.org/doi:10.21314/JOR.2017.356  
 http://dx.doi.org/10.2139/ssrn.2312007
