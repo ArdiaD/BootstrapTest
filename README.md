@@ -1,5 +1,5 @@
 # BootstrapTest
-[![JOR](https://img.shields.io/badge/JOR-10.21314%2FjJOR.2017.356-brightgreen)](https://doi.org/10.21314/JOR.2017.356)
+[![JOR](https://img.shields.io/badge/JOR-10.21314%2FJOR.2017.356-brightgreen)](https://doi.org/10.21314/JOR.2017.356)
 
 `BootstrapTest` is a set of R function implementing the bootstrap test of
 [Ardia et al. (2016)](http://dx.doi.org/doi:10.1002/wilm.10509) and [Ardia et al. (2017)](http://dx.doi.org/doi:10.21314/JOR.2017.356).
