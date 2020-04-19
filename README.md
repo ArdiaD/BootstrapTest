@@ -14,12 +14,12 @@ By using `BootstrapTest` you agree to the following rules:
 
 Ardia, D., Guerrouaz, A., Hoogerheide, L.F. (2016).  
 A note on jointly backtesting models for multiple assets and horizons.   
-_Wilmott Magazine_ **83**, pp.46-49.  
+_Wilmott Magazine_, 83, 46-49.  
 https://doi.org/10.1002/wilm.10509    
 https://ssrn.com/abstract=2732069  
 
 Ardia, D., Hoogerheide, L.F., Gatarek, L. (2017).  
 A new bootstrap test for multiple assets joint risk testing.  
-_Journal of Risk_ **19**(4), pp.1-22.   
+_Journal of Risk_, 19(4), 1-22.   
 https://doi.org/10.21314/JOR.2017.356  
 https://doi.org/10.2139/ssrn.2312007
