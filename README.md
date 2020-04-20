@@ -19,5 +19,5 @@ _Wilmott Magazine_, 83, 46-49.
 Ardia, D., Hoogerheide, L.F., Gatarek, L. (2017).  
 A new bootstrap test for multiple assets joint risk testing.  
 _Journal of Risk_, 19(4), 1-22.   
-[https://doi.org/10.21314/JOR.2017.356](https://doi.org/10.21314/JOR.2017.356)
+[https://doi.org/10.21314/JOR.2017.356](https://doi.org/10.21314/JOR.2017.356)  
 [https://doi.org/10.2139/ssrn.2312007](https://doi.org/10.2139/ssrn.2312007)
